@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\atividade\atividade\bin\Debug\atividade.exe.config
+C:\Users\Aluno\source\repos\atividade\atividade\bin\Debug\atividade.exe
+C:\Users\Aluno\source\repos\atividade\atividade\bin\Debug\atividade.pdb
+C:\Users\Aluno\source\repos\atividade\atividade\obj\Debug\atividade.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\atividade\atividade\obj\Debug\atividade.Form1.resources
+C:\Users\Aluno\source\repos\atividade\atividade\obj\Debug\atividade.Properties.Resources.resources
+C:\Users\Aluno\source\repos\atividade\atividade\obj\Debug\atividade.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\atividade\atividade\obj\Debug\atividade.exe
+C:\Users\Aluno\source\repos\atividade\atividade\obj\Debug\atividade.pdb
+C:\Users\Aluno\source\repos\atividade\atividade\bin\Debug\Pessoa.mdf
+C:\Users\Aluno\source\repos\atividade\atividade\bin\Debug\Pessoa_log.ldf
